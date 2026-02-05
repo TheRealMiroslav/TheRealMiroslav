@@ -44,8 +44,8 @@ Snažím se psát čistý kód, který většinou i funguje, a nebojím se napsa
 ### 📊 GitHub Statistiky
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheRealMiroslav&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealMiroslav&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miroslav.v&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miroslav.v&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
