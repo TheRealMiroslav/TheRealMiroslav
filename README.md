@@ -4,6 +4,8 @@ Jsem studentem **Softwarového inženýrství** na ZČU v Plzni. Baví mě zkoum
 
 Snažím se psát čistý kód, který většinou i funguje, a nebojím se napsat testy, aby to tak i zůstalo alespoň do další aktualizace.
 
+Projekty budu průběžně přenášet z mého soukromého verzovacího systemu sem.
+
 ---
 
 ### 🛠️ Technologický Stack
