@@ -89,8 +89,8 @@ Projekty budu průběžně přenášet z mého soukromého verzovacího systemu 
 
 ### 📊 GitHub Statistiky
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheRealMiroslav&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealMiroslav&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=TheRealMiroslav&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=TheRealMiroslav&layout=compact&theme=radical&hide_border=true)
 
 ---
 
