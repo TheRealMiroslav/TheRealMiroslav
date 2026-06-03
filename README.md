@@ -1,14 +1,14 @@
-### Ahoj, jsem Miroslav!
+### Hi, I'm Miroslav!
 
-Jsem studentem **Softwarového inženýrství** na ZČU v Plzni. Baví mě zkoumat technologie do hloubky – od hardwaru a nízkoúrovňového programování až po komplexní backendové systémy a AI.
+I'm a **Software Engineering** student at the University of West Bohemia in Pilsen. I enjoy exploring technology in depth - from hardware and low-level programming to complex backend systems and AI.
 
-Snažím se psát čistý kód, který většinou i funguje, a nebojím se napsat testy, aby to tak i zůstalo alespoň do další aktualizace.
+I strive to write clean code that mostly works too, and I'm not afraid to write tests to keep it that way - at least until the next update.
 
-Projekty budu průběžně přenášet z mého soukromého verzovacího systemu sem.
+I'll be gradually migrating projects from my private version control system here.
 
 ---
 
-### 🛠️ Technologický Stack
+### 🛠️ Tech Stack
 
 **Languages & Core:**
 <p>
@@ -87,7 +87,7 @@ Projekty budu průběžně přenášet z mého soukromého verzovacího systemu 
 
 ---
 
-### 📊 GitHub Statistiky
+### 📊 GitHub Statistics
 
 <div align="center">
   <img height="195" src="https://github-readme-stats.shion.dev/api?username=TheRealMiroslav&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&rank_icon=github" />
@@ -97,10 +97,12 @@ Projekty budu průběžně přenášet z mého soukromého verzovacího systemu 
 
 ---
 
-### 📫 Kontakt
+### 📫 Contact
 
-- **LinkedIn:** [pak dodplním](https://www.linkedin.com/in/LINKEDIN_URL_DOPLNIT)
+- **LinkedIn:** [REDIRECT](https://www.linkedin.com/in/miroslav-vanis-dev/)
+<!--
 - **Email:** [pak dodplním]
+-->
 
 <!--
 **TheRealMiroslav/TheRealMiroslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
