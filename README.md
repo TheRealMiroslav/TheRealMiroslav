@@ -90,7 +90,7 @@ I'll be gradually migrating projects from my private version control system here
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats.shion.dev/api?username=TheRealMiroslav&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&rank_icon=github" />
+  <img height="195" src="https://github-readme-stats.shion.dev/api?username=TheRealMiroslav&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&rank_icon=github" />
   &nbsp;
   <img height="195" src="https://github-readme-stats.shion.dev/api/top-langs/?username=TheRealMiroslav&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&card_width=350" />
 </div>
